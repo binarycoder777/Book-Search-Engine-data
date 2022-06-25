@@ -8,7 +8,7 @@
 
 ## 项目模块说明
 
-  <img width="395" alt="image" src="https://user-images.githubusercontent.com/72557529/175762855-7df9d5b1-60a5-40fe-af73-b0059b49eee9.png">
+ <img width="423" alt="image" src="https://user-images.githubusercontent.com/72557529/175763755-e03dedfc-90a7-4d45-8e92-5580f911417d.png">
 
 - Items.py: 数据传输实体
 - Middlewares.py: 中间件
